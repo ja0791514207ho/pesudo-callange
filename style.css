@@ -1,0 +1,52 @@
+h1,h2,h3,h4,h5{
+    color: #1089ab;
+    font-family: sans-serif;
+}
+.Related{
+   list-style: none;
+}
+
+.strong{
+font-weight: bold;
+}
+h1{
+    background-color: #f7f7f7;
+}
+
+#border{
+    border-top: #1089ab solid 5px;
+    border-bottom: #1089ab solid 5px;
+    background-color: #f7f7f7;
+}
+
+.footer{
+    font-size: 18px;
+}
+h5{
+    font-size: 18px;
+   
+}
+.describe :nth-child(odd){
+  background-color: #dfa914;
+  color: rgb(3, 66, 66);
+}
+.describe :nth-child(even){
+    color: #e2aa11;
+    background-color:rgb(3, 66, 66);
+}
+
+ a:link{
+    text-decoration: none;
+    font-style: italic;
+    color: #1dd10cc9;
+}
+
+a:visited{
+    color: #dfa914;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    background-color: black;
+}
